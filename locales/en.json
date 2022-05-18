@@ -1,0 +1,9 @@
+{
+  "sideBar.title": "Management Console",
+  "sideBar.welcome": "Welcome {name}",
+  "sideBar.administrator": "Administrator",
+  "sideBar.menu.home": "Home",
+  "sideBar.menu.account": "Accout",
+  "sideBar.menu.configuration": "Configuration",
+  "sideBar.menu.setting": "Setting"
+}

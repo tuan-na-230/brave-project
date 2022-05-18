@@ -1,0 +1,9 @@
+{
+  "sideBar.title": "管理コンソール",
+  "sideBar.welcome": "ようこそ {name}",
+  "sideBar.administrator": "Administrator",
+  "sideBar.menu.home": "家",
+  "sideBar.menu.account": "アカウント",
+  "sideBar.menu.configuration": "構成",
+  "sideBar.menu.setting": "設定"
+}
